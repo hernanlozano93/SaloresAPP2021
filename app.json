@@ -1,0 +1,12 @@
+{
+  "name": "saloresapp",
+  "displayName": "saloresapp",
+  "expo": {
+    "name": "saloresapp",
+    "slug": "saloresapp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
